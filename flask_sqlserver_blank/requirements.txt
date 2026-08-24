@@ -1,4 +1,0 @@
-Flask
-pyodbc
-python-dotenv
-waitress
